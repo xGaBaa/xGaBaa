@@ -1,7 +1,19 @@
 # Hello, I'm Gabriel - aka xGaBaa 👋 
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xGaBaa&label=Profile%20views&color=0e75b6&style=flat" alt="xGaBaa" /></p>
+
+### Infos about me :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xGaBaa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xGaBaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>In the last few Months i really got in the programming scene and i learn a two really nice language like :</h3>
+<h3><li>HTML</li>
+<li>CSS</li></h3>
+<h3>now i learn a 2 more and that would be :
+<h3><li>JavaScript</li>
+<li>Lua</li></h3>
 
 ### Connect with me:
 
